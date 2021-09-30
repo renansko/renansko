@@ -2,6 +2,8 @@
 
 - 🌱 Atualmente estudando Node.js e C, C++;
 
+-👨🏻‍💻 proficiência em Elixir.
+
 - 📫 Contata-me no email: renansko@gmail.com;
 
 <div align="center">
