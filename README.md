@@ -4,7 +4,7 @@
 
 - 👨🏻‍💻 proficiência em Elixir.
 
-- 📫 Contata-me no email: renansko@gmail.com;
+- 📫 Contactar-me no email: renansko@gmail.com;
 
 <div align="center">
   <a href="https://github.com/renansko">
