@@ -1,10 +1,12 @@
 ### Olá!! eu sou Renan skonicezny 👋
 
-- 🌱 Atualmente estudando Node.js e C, C++;
+- 🌱 Atualmente estudando Node.js e suas novas ferramentas;
 
-- 👨🏻‍💻 proficiência em Elixir.
+- 👨🏻‍💻 proficiência em Node.js/Typescript.
 
 - 📫 Contactar-me no email: renansko@gmail.com;
+
+- 🧨 Amante da linguagem Elixir! rs
 
 <!-- <div align="center">
   <a href="https://github.com/renansko">
