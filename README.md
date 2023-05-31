@@ -1,16 +1,19 @@
 ### Olá!! eu sou Renan skonicezny 👋
 
+<div>
+
 - 🌱 Atualmente estudando Node.js e suas novas ferramentas;
 
 - 👨🏻‍💻 proficiência em Node.js/Typescript.
 
 - 📫 Contactar-me no email: renansko@gmail.com;
 
-<!-- <div align="center">
-  <a href="https://github.com/renansko">
-  <img height="170em" src="https://renansko.vercel.app/api?username=renansko&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="170em" src="https://renansko.vercel.app/api/top-langs/?username=renansko&layout=compact&langs_count=7&theme=dark"/>
-</div> -->
+</div>
+
+
+    
+<!--   <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=renansko&" alt="renansko" /></p> -->
+  
 
 # Minhas habilidades
 
@@ -58,6 +61,12 @@
   <a href="https://instagram.com/renansko" target="_blank"><img  target="_blank" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:renansko@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/renan-skonicezny-vilela-47bb03194/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  
+  <div align="left">
+  <a href="https://github.com/renansko">
+  <img  height="170em" src="https://github-readme-stats.vercel.app/api/top-langs?username=renansko&show_icons=true&locale=en&layout=compact" alt="renansko" />
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=renansko&show_icons=true&locale=en" alt="renansko" />
+</div> 
  
   ![Snake animation](https://github.com/renansko/renansko/blob/output/github-contribution-grid-snake.svg)
     </div>
