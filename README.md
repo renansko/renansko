@@ -6,8 +6,6 @@
 
 - 📫 Contactar-me no email: renansko@gmail.com;
 
-- 🧨 Amante da linguagem Elixir! rs
-
 <!-- <div align="center">
   <a href="https://github.com/renansko">
   <img height="170em" src="https://renansko.vercel.app/api?username=renansko&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
