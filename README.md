@@ -2,6 +2,8 @@
 
 <div>
 
+- :necktie: Profisional PHP/Laravel
+
 - 🌱 Atualmente estudando Node.js e suas novas ferramentas;
 
 - 👨🏻‍💻 proficiência em Node.js/Typescript.
